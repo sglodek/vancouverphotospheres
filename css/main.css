@@ -1,0 +1,27 @@
+body {
+	background-color: #Ece9e9;
+	color: #585757;
+	font-family: "Sora";
+}
+
+h2 {
+    height: 20px;
+	margin-bottom: 5px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+a { text-decoration: none; }
+
+div.main {
+	width: 95vw;
+	max-width: 1000px;
+	height: 50vh;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+div.pano {
+	border: 5px solid black;
+}
